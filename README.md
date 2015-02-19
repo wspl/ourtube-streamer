@@ -4,8 +4,8 @@ OurTube - Streamer is a simple plugins made for watching Youtube videos in borro
 
 
 ----------
-Useage
--------
+Usage
+-----
 Open **ourtube-streamer/config.js** change setting to yours.
 And then:
 
