@@ -1,5 +1,5 @@
 var config = {
-	// Streamer front-end informations
+	// Streamer front-end information
 	listen: {
 		host: '127.0.0.1',
 		port: 8090
