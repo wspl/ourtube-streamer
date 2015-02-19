@@ -11,7 +11,7 @@ And then:
 
     # npm install
     # node app.js
-Enter url: http://`host`}:`port`/youtube/`video_id`/`video_quality`
+Enter url: http://`host`:`port`/youtube/`video_id`/`video_quality`
 Enjoy the video!
 
 More Information Please Refer: 
