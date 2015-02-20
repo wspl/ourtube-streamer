@@ -1,4 +1,4 @@
-OutTube - Streamer
+OurTube - Streamer
 ==================
 OurTube - Streamer is a simple plugins made for watching Youtube videos in borrowser with proxy. Or you could run it in an Youtube-availble VPS server.
 
